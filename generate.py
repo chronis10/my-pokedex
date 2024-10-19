@@ -6,8 +6,12 @@ def generate_html(cards, profile_image_url):
     
     # First, we need to group the cards by set
     sets = {}
+    total_value = 0
     for card in cards:
         set_name = card['set']['name']
+        
+        total_value += float(card['cardmarket']['prices']['averageSellPrice'])
+        
         if set_name not in sets:
             sets[set_name] = {
                 'logo': card['set']['images']['logo'],
@@ -15,7 +19,13 @@ def generate_html(cards, profile_image_url):
             }
         sets[set_name]['cards'].append(card)
 
-    # Updated template to group cards by set and show the set logo
+    # Next, we need to sort the cards within each set by their card number
+    for set_name, set_data in sets.items():
+        set_data['cards'] = sorted(set_data['cards'], key=lambda x: int(x['number']))
+
+      # Updated template to group cards by set and show the set logo
+    total_value = str(round(total_value, 2))
+
     template_str = """
     <!DOCTYPE html>
     <html lang="en">
@@ -140,6 +150,7 @@ def generate_html(cards, profile_image_url):
         </h1>
 
         <div class="container">
+            
             <!-- Loop through each set -->
             {% for set_name, set_data in sets.items() %}
             <div class="set-section">
@@ -162,6 +173,8 @@ def generate_html(cards, profile_image_url):
                                 {% else %}
                                     <p class="card-rarity">{{ card['rarity'] | lower }}</p>
                                 {% endif %}
+                                
+                                <!--<p> Average price: {{ card['cardmarket']['prices']['averageSellPrice'] }}</p> -->
                             </div>
                         </div>
                     </div>
@@ -169,6 +182,7 @@ def generate_html(cards, profile_image_url):
                 </div>
             </div>
             {% endfor %}
+            <!-- <p> Total evaluation: {{total_value}}</p> -->
         </div>
 
         <!-- Bootstrap JS and dependencies -->
@@ -176,9 +190,9 @@ def generate_html(cards, profile_image_url):
     </body>
     </html>
     """
-    
+
     template = Template(template_str)
-    html_content = template.render(sets=sets, profile_image_url=profile_image_url)
+    html_content = template.render(sets=sets, profile_image_url=profile_image_url,total_value=total_value)
     
     with open("index.html", "w") as f:
         f.write(html_content)
