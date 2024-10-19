@@ -15342,5 +15342,1458 @@
                 "reverseHoloAvg30": 0.0
             }
         }
+    },
+    {
+        "id": "sv3-29",
+        "name": "Ninetales",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Vulpix",
+        "attacks": [
+            {
+                "name": "Will-O-Wisp",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": ""
+            },
+            {
+                "name": "Nine-Tailed Dance",
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "Put 9 damage counters on 1 of your opponent's Pok\u00e9mon. During your next turn, this Pok\u00e9mon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "29",
+        "artist": "Yoshioka",
+        "rarity": "uncommon",
+        "flavorText": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+        "nationalPokedexNumbers": [
+            38
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/29.png",
+            "large": "https://images.pokemontcg.io/sv3/29_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-29",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "reverseHolofoil": {
+                    "low": 0.05,
+                    "mid": 0.23,
+                    "high": 5.95,
+                    "market": 0.2,
+                    "directLow": 0.2
+                },
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.1,
+                    "high": 1.5,
+                    "market": 0.07,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-29",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.04,
+                "lowPrice": 0.02,
+                "trendPrice": 0.04,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.23,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.22,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.05,
+                "avg7": 0.04,
+                "avg30": 0.04,
+                "reverseHoloAvg1": 0.22,
+                "reverseHoloAvg7": 0.24,
+                "reverseHoloAvg30": 0.22
+            }
+        }
+    },
+    {
+        "id": "sv3-36",
+        "name": "Litwick",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Fire"
+        ],
+        "evolvesTo": [
+            "Lampent"
+        ],
+        "attacks": [
+            {
+                "name": "Firebreathing",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "Flip a coin. If heads, this attack does 10 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "36",
+        "artist": "Nagomi Nijo",
+        "rarity": "common",
+        "flavorText": "The younger the life this Pok\u00e9mon absorbs, the brighter and eerier the flame on its head burns.",
+        "nationalPokedexNumbers": [
+            607
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/36.png",
+            "large": "https://images.pokemontcg.io/sv3/36_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-36",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.07,
+                    "high": 1.5,
+                    "market": 0.05,
+                    "directLow": 0.01
+                },
+                "reverseHolofoil": {
+                    "low": 0.02,
+                    "mid": 0.1,
+                    "high": 1.5,
+                    "market": 0.09,
+                    "directLow": 0.04
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-36",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.02,
+                "lowPrice": 0.02,
+                "trendPrice": 0.02,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.09,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.09,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.02,
+                "avg7": 0.03,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.08,
+                "reverseHoloAvg7": 0.08,
+                "reverseHoloAvg30": 0.09
+            }
+        }
+    },
+    {
+        "id": "sv3-47",
+        "name": "Sharpedo",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "120",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Carvanha",
+        "attacks": [
+            {
+                "name": "Aqua Impact",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost."
+            },
+            {
+                "name": "Jet Headbutt",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "47",
+        "artist": "Tonji Matsuno",
+        "rarity": "uncommon",
+        "flavorText": "This Pok\u00e9mon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked\u2014no exceptions.",
+        "nationalPokedexNumbers": [
+            319
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/47.png",
+            "large": "https://images.pokemontcg.io/sv3/47_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-47",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.08,
+                    "high": 1.5,
+                    "market": 0.04,
+                    "directLow": 0.01
+                },
+                "reverseHolofoil": {
+                    "low": 0.01,
+                    "mid": 0.2,
+                    "high": 1.86,
+                    "market": 0.13,
+                    "directLow": 0.12
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-47",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.03,
+                "lowPrice": 0.02,
+                "trendPrice": 0.03,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.19,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.17,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.04,
+                "avg7": 0.03,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.2,
+                "reverseHoloAvg7": 0.17,
+                "reverseHoloAvg30": 0.2
+            }
+        }
+    },
+    {
+        "id": "sv3-63",
+        "name": "Magnemite",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Lightning"
+        ],
+        "evolvesTo": [
+            "Magneton"
+        ],
+        "attacks": [
+            {
+                "name": "Ram",
+                "cost": [
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Speed Ball",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "63",
+        "artist": "Masakazu Fukuda",
+        "rarity": "common",
+        "flavorText": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+        "nationalPokedexNumbers": [
+            81
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/63.png",
+            "large": "https://images.pokemontcg.io/sv3/63_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-63",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "reverseHolofoil": {
+                    "low": 0.01,
+                    "mid": 0.11,
+                    "high": 1.5,
+                    "market": 0.1,
+                    "directLow": 0.05
+                },
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.06,
+                    "high": 1.5,
+                    "market": 0.05,
+                    "directLow": 0.01
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-63",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.02,
+                "lowPrice": 0.01,
+                "trendPrice": 0.02,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.09,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.09,
+                "lowPriceExPlus": 0.01,
+                "avg1": 0.02,
+                "avg7": 0.02,
+                "avg30": 0.02,
+                "reverseHoloAvg1": 0.11,
+                "reverseHoloAvg7": 0.1,
+                "reverseHoloAvg30": 0.1
+            }
+        }
+    },
+    {
+        "id": "sv3-68",
+        "name": "Eelektrik",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "90",
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Tynamo",
+        "evolvesTo": [
+            "Eelektross"
+        ],
+        "attacks": [
+            {
+                "name": "Volt Wave",
+                "cost": [
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20",
+                "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+            },
+            {
+                "name": "Electric Ball",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "68",
+        "artist": "Souichirou Gunjima",
+        "rarity": "common",
+        "flavorText": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+        "nationalPokedexNumbers": [
+            603
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/68.png",
+            "large": "https://images.pokemontcg.io/sv3/68_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-68",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.08,
+                    "high": 1.5,
+                    "market": 0.06,
+                    "directLow": 0.02
+                },
+                "reverseHolofoil": {
+                    "low": 0.05,
+                    "mid": 0.23,
+                    "high": 1.5,
+                    "market": 0.15,
+                    "directLow": 0.15
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-68",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.03,
+                "lowPrice": 0.02,
+                "trendPrice": 0.03,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.14,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.17,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.03,
+                "avg7": 0.03,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.15,
+                "reverseHoloAvg7": 0.14,
+                "reverseHoloAvg30": 0.15
+            }
+        }
+    },
+    {
+        "id": "sv3-86",
+        "name": "Espeon",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "110",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Eevee",
+        "attacks": [
+            {
+                "name": "Psychic Assault",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30+",
+                "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pok\u00e9mon."
+            },
+            {
+                "name": "Psy Bolt",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "60",
+                "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "\u00d72"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "86",
+        "artist": "Cona Nitanda",
+        "rarity": "uncommon",
+        "flavorText": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
+        "nationalPokedexNumbers": [
+            196
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/86.png",
+            "large": "https://images.pokemontcg.io/sv3/86_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-86",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.15,
+                    "high": 1.99,
+                    "market": 0.12,
+                    "directLow": 0.12
+                },
+                "reverseHolofoil": {
+                    "low": 0.1,
+                    "mid": 0.5,
+                    "high": 2.99,
+                    "market": 0.58,
+                    "directLow": 0.99
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-86",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 10.57,
+                "lowPrice": 7.89,
+                "trendPrice": 10.03,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.0,
+                "reverseHoloLow": 0.0,
+                "reverseHoloTrend": 0.0,
+                "lowPriceExPlus": 7.89,
+                "avg1": 9.0,
+                "avg7": 10.28,
+                "avg30": 10.06,
+                "reverseHoloAvg1": 0.0,
+                "reverseHoloAvg7": 0.0,
+                "reverseHoloAvg30": 0.0
+            }
+        }
+    },
+    {
+        "id": "sv3-98",
+        "name": "Polteageist",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "70",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Sinistea",
+        "attacks": [
+            {
+                "name": "Antique Collecting",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Put up to 2 in any combination of Item cards and Pok\u00e9mon Tool cards from your discard pile into your hand."
+            },
+            {
+                "name": "Pour Tea",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Put 5 damage counters on your opponent's Active Pok\u00e9mon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "\u00d72"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "98",
+        "artist": "Megumi Mizutani",
+        "rarity": "uncommon",
+        "flavorText": "The tea that composes Polteageist's body has a distinct and enjoyable flavor. Drinking too much, however, can be fatal.",
+        "nationalPokedexNumbers": [
+            855
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/98.png",
+            "large": "https://images.pokemontcg.io/sv3/98_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-98",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.09,
+                    "high": 1.5,
+                    "market": 0.04,
+                    "directLow": 0.02
+                },
+                "reverseHolofoil": {
+                    "low": 0.03,
+                    "mid": 0.25,
+                    "high": 1.5,
+                    "market": 0.3,
+                    "directLow": 0.14
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-98",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.03,
+                "lowPrice": 0.02,
+                "trendPrice": 0.03,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.18,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.21,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.05,
+                "avg7": 0.03,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.23,
+                "reverseHoloAvg7": 0.21,
+                "reverseHoloAvg30": 0.18
+            }
+        }
+    },
+    {
+        "id": "sv3-105",
+        "name": "Larvitar",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesTo": [
+            "Pupitar"
+        ],
+        "attacks": [
+            {
+                "name": "Corkscrew Punch",
+                "cost": [
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Confront",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "105",
+        "artist": "KYUPIYAMA",
+        "rarity": "common",
+        "flavorText": "Born deep underground, this Pok\u00e9mon becomes a pupa after eating enough dirt to make a mountain.",
+        "nationalPokedexNumbers": [
+            246
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/105.png",
+            "large": "https://images.pokemontcg.io/sv3/105_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-105",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "reverseHolofoil": {
+                    "low": 0.02,
+                    "mid": 0.14,
+                    "high": 1.5,
+                    "market": 0.12,
+                    "directLow": 0.05
+                },
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.08,
+                    "high": 1.5,
+                    "market": 0.04,
+                    "directLow": 0.01
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-105",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.03,
+                "lowPrice": 0.02,
+                "trendPrice": 0.03,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.08,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.09,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.02,
+                "avg7": 0.04,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.18,
+                "reverseHoloAvg7": 0.09,
+                "reverseHoloAvg30": 0.09
+            }
+        }
+    },
+    {
+        "id": "sv3-131",
+        "name": "Houndour",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesTo": [
+            "Houndoom"
+        ],
+        "attacks": [
+            {
+                "name": "Coordinated Pack",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "For each of your Benched Houndour, search your deck for a Basic Darkness Energy card and attach it to that Houndour. Then, shuffle your deck."
+            },
+            {
+                "name": "Focus Fangs",
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "131",
+        "artist": "Scav",
+        "rarity": "common",
+        "flavorText": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+        "nationalPokedexNumbers": [
+            228
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/131.png",
+            "large": "https://images.pokemontcg.io/sv3/131_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-131",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "reverseHolofoil": {
+                    "low": 0.04,
+                    "mid": 0.19,
+                    "high": 1.25,
+                    "market": 0.15,
+                    "directLow": 0.07
+                },
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.1,
+                    "high": 1.5,
+                    "market": 0.08,
+                    "directLow": 0.03
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-131",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.04,
+                "lowPrice": 0.02,
+                "trendPrice": 0.04,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.19,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.19,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.03,
+                "avg7": 0.03,
+                "avg30": 0.04,
+                "reverseHoloAvg1": 0.21,
+                "reverseHoloAvg7": 0.21,
+                "reverseHoloAvg30": 0.19
+            }
+        }
+    },
+    {
+        "id": "sv3-166",
+        "name": "Eevee",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Vaporeon",
+            "Jolteon",
+            "Flareon",
+            "Espeon",
+            "Umbreon",
+            "Leafeon",
+            "Glaceon",
+            "Sylveon"
+        ],
+        "attacks": [
+            {
+                "name": "Cheer Up",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Attach an Energy card from your hand to 1 of your Pok\u00e9mon."
+            },
+            {
+                "name": "Kick",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "166",
+        "artist": "ryoma uratsuka",
+        "rarity": "common",
+        "flavorText": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+        "nationalPokedexNumbers": [
+            133
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/166.png",
+            "large": "https://images.pokemontcg.io/sv3/166_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-166",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "reverseHolofoil": {
+                    "low": 0.05,
+                    "mid": 0.18,
+                    "high": 1.99,
+                    "market": 0.15,
+                    "directLow": 0.07
+                },
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.13,
+                    "high": 1.5,
+                    "market": 0.08,
+                    "directLow": 0.05
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-166",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.05,
+                "lowPrice": 0.02,
+                "trendPrice": 0.04,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.15,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.09,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.02,
+                "avg7": 0.04,
+                "avg30": 0.05,
+                "reverseHoloAvg1": 0.16,
+                "reverseHoloAvg7": 0.09,
+                "reverseHoloAvg30": 0.16
+            }
+        }
+    },
+    {
+        "id": "sv3-176",
+        "name": "Yungoos",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Gumshoos"
+        ],
+        "attacks": [
+            {
+                "name": "Knock Away",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "Flip a coin. If heads, this attack does 10 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "176",
+        "artist": "saino misaki",
+        "rarity": "common",
+        "flavorText": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+        "nationalPokedexNumbers": [
+            734
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/176.png",
+            "large": "https://images.pokemontcg.io/sv3/176_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-176",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.09,
+                    "high": 1.5,
+                    "market": 0.05,
+                    "directLow": 0.02
+                },
+                "reverseHolofoil": {
+                    "low": 0.03,
+                    "mid": 0.11,
+                    "high": 1.5,
+                    "market": 0.1,
+                    "directLow": 0.04
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-176",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 0.03,
+                "lowPrice": 0.02,
+                "trendPrice": 0.03,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.12,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.17,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.03,
+                "avg7": 0.03,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.07,
+                "reverseHoloAvg7": 0.15,
+                "reverseHoloAvg30": 0.1
+            }
+        }
+    },
+    {
+        "id": "sv3-215",
+        "name": "Charizard ex",
+        "supertype": "Pok\u00e9mon",
+        "subtypes": [
+            "Stage 2",
+            "ex",
+            "Tera"
+        ],
+        "hp": "330",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Charmeleon",
+        "rules": [
+            "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards.",
+            "Tera: As long as this Pok\u00e9mon is on your Bench, prevent all damage done to this Pok\u00e9mon by attacks (both yours and your opponent's)."
+        ],
+        "abilities": [
+            {
+                "name": "Infernal Reign",
+                "text": "When you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pok\u00e9mon in any way you like. Then, shuffle your deck.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Burning Darkness",
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "180+",
+                "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "\u00d72"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv3",
+            "name": "Obsidian Flames",
+            "series": "Scarlet & Violet",
+            "printedTotal": 197,
+            "total": 230,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/08/11",
+            "updatedAt": "2023/08/11 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv3/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv3/logo.png"
+            }
+        },
+        "number": "215",
+        "artist": "5ban Graphics",
+        "rarity": "ultra rare",
+        "nationalPokedexNumbers": [
+            6
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv3/215.png",
+            "large": "https://images.pokemontcg.io/sv3/215_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv3-215",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "holofoil": {
+                    "low": 6.3,
+                    "mid": 8.07,
+                    "high": 829.0,
+                    "market": 6.95,
+                    "directLow": 8.39
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv3-215",
+            "updatedAt": "2024/10/19",
+            "prices": {
+                "averageSellPrice": 12.84,
+                "lowPrice": 7.0,
+                "trendPrice": 13.99,
+                "germanProLow": 0.0,
+                "suggestedPrice": 0.0,
+                "reverseHoloSell": 0.0,
+                "reverseHoloLow": 0.0,
+                "reverseHoloTrend": 0.0,
+                "lowPriceExPlus": 7.5,
+                "avg1": 13.7,
+                "avg7": 13.82,
+                "avg30": 12.88,
+                "reverseHoloAvg1": 0.0,
+                "reverseHoloAvg7": 0.0,
+                "reverseHoloAvg30": 0.0
+            }
+        }
     }
 ]
